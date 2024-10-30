@@ -13,13 +13,15 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sathishkumar.g.JadwaBlogApp"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.sathishkumar.g.JadwaBlogApp"
     },
     "web": {
       "bundler": "metro",
@@ -31,6 +33,11 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c299e358-2f47-4f13-9af5-76efc632463d"
+      }
     }
   }
 }
