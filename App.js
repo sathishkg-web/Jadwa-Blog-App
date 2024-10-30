@@ -18,7 +18,7 @@ import { db } from './config/firebaseConfig';
 
 export default function App() {
   return (
-    <ClerkProvider publishableKey="pk_test_dGVuZGVyLWxsYW1hLTQwLmNsZXJrLmFjY291bnRzLmRldiQ">
+    <ClerkProvider publishableKey="sk_test_dGVuZGVyLWLTQwLmNsZXY291bnRzLsdiQ">
       <ClerkLoaded>
         <SafeAreaProvider>
           <NavigationContainer>
