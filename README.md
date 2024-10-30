@@ -2,8 +2,6 @@
 
 # welcome to react native Blog App
 
-# App Name: Jadwa blog App
-
 ## Get started
 
 Jadwa is a cross platform React Native app which provides seamless blogging experience with its user friendly interface.
