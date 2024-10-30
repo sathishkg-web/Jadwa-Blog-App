@@ -16,10 +16,10 @@ Jadwa is a cross platform React Native app which provides seamless blogging expe
 
 2. Actions Performed - CRUD
 
-C - Create Blog and user data
-R - Read Blog data, user data
-E - Edit Blog
-D - Delete blog
+   * C - Create Blog and user data,
+   * R - Read Blog data, user data,
+   * E - Edit Blog,
+   * D - Delete blog,
 
 3. ERD Design:
 
